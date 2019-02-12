@@ -816,6 +816,8 @@ ol {
 .banner-section {
 	padding-top: 113px;
 	padding-bottom: 96px;
+	padding-right: 16px;
+	padding-left: 16px;
 }
 
 .banner-text h3 {
