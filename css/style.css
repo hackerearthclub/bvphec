@@ -814,10 +814,7 @@ ol {
 
 
 .banner-section {
-	padding-top: 113px;
-	padding-bottom: 96px;
-	padding-right: 16px;
-	padding-left: 16px;
+	height: 835px;
 }
 
 .banner-text h3 {
@@ -1486,8 +1483,12 @@ ol {
 	.hero-section {
 		height: 600px;
 	}
+	.banner-section{
+		height: 300px;
+	}
 }
 
+    
 /* Small Mobile :320px. */
 
 @media only screen and (max-width: 479px) {
@@ -1499,6 +1500,9 @@ ol {
 	}
 	.hero-section {
 		height: 750px;
+	}
+	.banner-section{
+		height: 500px;
 	}
 	.hero-content h2 {
 		font-size: 40px;
